@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Zeba%20Sayyed&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58&descSize=18" alt="Zeba Sayyed banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Zeba%20Sayyed&fontSize=66&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=58&descSize=18" alt="Zeba Sayyed banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Turning+data+into+meaningful+insights;Building+intelligent%2C+data-driven+solutions;NLP+%7C+Deep+Learning+%7C+Generative+AI;Think+analytically.+Build+intelligently." alt="Typing animation" />
@@ -12,6 +12,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeba-sayyed-28766941b/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zebasayyed025)
 ![Profile Views](https://komarev.com/ghpvc/?username=zebasayyed17&label=Profile+Views&color=8B5CF6&style=for-the-badge)
+
+<br/>
+
+![Projects](https://img.shields.io/badge/Featured_Projects-4-8B5CF6?style=flat-square)
+![Live App](https://img.shields.io/badge/Live_Streamlit_App-1-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Analytics_%7C_ML_%7C_GenAI-0A66C2?style=flat-square)
+![Training](https://img.shields.io/badge/PG_Program-Data_Science_%26_GenAI-00897B?style=flat-square)
 
 </div>
 
@@ -43,6 +50,47 @@ My interests span the **complete data lifecycle**, from data cleaning and explor
 - 🕸️ Deep Learning & neural networks
 - 🪄 Generative AI & Large Language Models
 - 🔎 Retrieval-Augmented Generation (RAG)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💎 What I Bring
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🔍
+**Analytical Thinking**
+
+Turning messy data into clear, structured questions and answers.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🧱
+**End-to-End Skills**
+
+From cleaning and EDA to modeling, dashboards and apps.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🚀
+**Shipping Mindset**
+
+Models wrapped into interactive Streamlit apps, one already live.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 📖
+**Always Learning**
+
+Actively growing in Deep Learning, LLMs and RAG.
 
 </td>
 </tr>
@@ -198,6 +246,27 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 
 </details>
 
+### 🧩 Skills in Action
+
+| Project | Data Analysis | Machine Learning | NLP | Deep Learning | BI / Dashboards | Deployed App |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🚆 **RailResolve-AI** | | | ✅ | | | ✅ |
+| 🐟 **Global Fisheries** | ✅ | | | | ✅ | |
+| 📉 **Churn Prediction** | ✅ | ✅ | | | | ✅ |
+| 🛡️ **JobShield** | ✅ | ✅ | ✅ | ✅ | | ✅ |
+
+---
+
+## 🧭 My Approach to Data Problems
+
+| Step | What I Do |
+|:---:|:---|
+| **1️⃣ Understand** | Define the business question and explore the dataset |
+| **2️⃣ Clean** | Preprocess, encode, scale and handle imbalance or missing data |
+| **3️⃣ Analyze & Model** | EDA, statistics, then ML / DL / NLP models compared and tuned |
+| **4️⃣ Communicate** | Dashboards, visualizations and clear data storytelling |
+| **5️⃣ Deliver** | Wrap the solution into an interactive app people can use |
+
 ---
 
 ## 🎯 Areas of Interest
@@ -214,10 +283,21 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 
 ---
 
-## 🎓 Education & Learning
+## 🎓 Education & Learning Journey
 
-- 🎓 **Bachelor of Computer Applications (BCA)**
-- 📜 **Postgraduate Program in Data Science & Analytics with Generative AI**, Imarticus Learning
+```text
+🎓  Bachelor of Computer Applications (BCA)
+ │
+ ▼
+📜  Postgraduate Program in Data Science & Analytics with Generative AI
+    Imarticus Learning
+ │
+ ▼
+🚀  Building industry-focused projects in Analytics, ML, NLP & GenAI
+ │
+ ▼
+🔭  Now exploring: Deep Learning • LLMs • RAG • Business Intelligence
+```
 
 ---
 
@@ -240,15 +320,19 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
-I'm interested in connecting with people who enjoy working with data, developing intelligent applications and solving meaningful real-world problems.
+I'm interested in connecting with people who enjoy working with data, developing intelligent applications and solving meaningful real-world problems. Open to conversations about **data analytics, machine learning and AI projects**.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeba-sayyed-28766941b/)
 [![Medium](https://img.shields.io/badge/MEDIUM-READ_ARTICLES-000000?style=for-the-badge&logo=medium)](https://medium.com/@zebasayyed025)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github)](https://github.com/zebasayyed17)
+
+<br/>
+
+⭐ *If you like my work, feel free to star a repository!* ⭐
 
 <br/>
 
