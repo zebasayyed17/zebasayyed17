@@ -8,6 +8,7 @@ Turning data into meaningful insights and building intelligent, data-driven solu
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zebasayyed17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeba-sayyed-28766941b/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zebasayyed025)
 
 </div>
 
@@ -205,6 +206,7 @@ I am interested in connecting with people who enjoy working with data, developin
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeba-sayyed-28766941b/)
+[![Medium](https://img.shields.io/badge/MEDIUM-READ_ARTICLES-000000?style=for-the-badge&logo=medium)](https://medium.com/@zebasayyed025)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github)](https://github.com/zebasayyed17)
 
 **Think analytically. Build intelligently. Create impact through data.**
