@@ -15,7 +15,7 @@
 
 <br/>
 
-![Projects](https://img.shields.io/badge/Featured_Projects-4-8B5CF6?style=flat-square)
+![Projects](https://img.shields.io/badge/Featured_Projects-6-8B5CF6?style=flat-square)
 ![Live App](https://img.shields.io/badge/Live_Streamlit_App-1-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Analytics_%7C_ML_%7C_GenAI-0A66C2?style=flat-square)
 ![Training](https://img.shields.io/badge/PG_Program-Data_Science_%26_GenAI-00897B?style=flat-square)
@@ -102,7 +102,7 @@ Actively growing in Deep Learning, LLMs and RAG.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,pandas,numpy,sklearn,tensorflow,powerbi,git,github,vscode&perline=10" alt="Core skills"/>
+<img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,git,github,vscode&perline=7" alt="Core skills"/>
 
 </div>
 
@@ -199,7 +199,7 @@ End-to-end ML application that predicts customers at risk of leaving. Handles cl
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `SMOTE` `Streamlit`
 
-[**GitHub →**](https://github.com/zebasayyed17/churn_lit) &nbsp;•&nbsp; [**🔴 Live App →**](https://churnlit-zeba.streamlit.app/)
+[**GitHub →**](https://github.com/zebasayyed17/CHURN-LAB-Customer-Churn-Prediction-Intelligence-Platform) &nbsp;•&nbsp; [**🔴 Live App →**](https://churnlit-zeba.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -212,6 +212,32 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 `Python` `NLP` `TF-IDF` `TensorFlow` `Keras` `SimpleRNN` `Streamlit`
 
 [**View on GitHub →**](https://github.com/zebasayyed17/jobshield-fake-job-detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Financial Intelligence Research Copilot
+**AI-Powered Financial Research Assistant**
+
+Analyzes annual reports with semantic search, financial KPI calculations, risk intelligence and disclosure comparison.
+
+`Python` `Semantic Search` `Financial KPIs` `Risk Intelligence`
+
+[**View on GitHub →**](https://github.com/zebasayyed17/financial-intelligence-research-copilot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 EstateIQ
+**ML-Based House Price Prediction & Real Estate Analytics Platform for India**
+
+A machine learning-based platform for house price prediction and real estate analytics, built for the Indian market.
+
+`Python` `Machine Learning` `Real Estate Analytics`
+
+[**View on GitHub →**](https://github.com/zebasayyed17/EstateIQ-House-Price-Prediction)
 
 </td>
 </tr>
@@ -244,6 +270,18 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 - Trained models integrated into a Streamlit app
 - Interactive interface for job-posting analysis
 
+**💼 Financial Intelligence Research Copilot**
+- Annual report analysis
+- Semantic search over report content
+- Financial KPI calculations
+- Risk intelligence
+- Disclosure comparison
+
+**🏠 EstateIQ**
+- Machine learning-based house price prediction
+- Real estate analytics platform
+- Focused on the Indian property market
+
 </details>
 
 ### 🧩 Skills in Action
@@ -254,6 +292,8 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 | 🐟 **Global Fisheries** | ✅ | | | | ✅ | |
 | 📉 **Churn Prediction** | ✅ | ✅ | | | | ✅ |
 | 🛡️ **JobShield** | ✅ | ✅ | ✅ | ✅ | | ✅ |
+| 💼 **Financial Copilot** | ✅ | | ✅ | | | |
+| 🏠 **EstateIQ** | ✅ | ✅ | | | | |
 
 ---
 
