@@ -1,253 +1,214 @@
-# 👩‍💻 Zeba Sayyed | Data Analytics • Data Science • Applied AI
+# Zeba Sayyed | Data Science & Analytics
 
-\<div align="center">
+<div align="center">
 
-### Turning Data Into Intelligence. Building Solutions That Matter.
+### Data Analytics | Machine Learning | Generative AI
 
-**Data Analyst | Data Science & Machine Learning | Generative AI**
+Turning data into meaningful insights and building intelligent, data-driven solutions.
 
-I transform raw data into meaningful insights and develop intelligent, data-driven applications to solve real-world business problems.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zebasayyed17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeba-sayyed-28766941b/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zebasayyed025)
 
-\<br/>
-
-\<a href="[https://www.linkedin.com/in/zeba-sayyed-28766941b/](https://www.linkedin.com/in/zeba-sayyed-28766941b/)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>\</a>
-\<a href="[https://github.com/zebasayyed17](https://github.com/zebasayyed17)">\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>\</a>
-\<a href="[https://medium.com/@zebasayyed025](https://medium.com/@zebasayyed025)">\<img src="[https://img.shields.io/badge/Medium-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/Medium-Read_My_Articles-000000?style=for-the-badge\&logo=medium\&logoColor=white)"/>\</a>
-
-\</div>
+</div>
 
 ---
 
-## 👩‍💻 01 — ABOUT ME
+## 01 — ABOUT ME
 
-I am a Data Science and Analytics enthusiast with a Bachelor of Computer Applications (BCA) background and professional training in Data Science, Analytics and Generative AI from Imarticus Learning.
+I am a Data Science and Analytics enthusiast with a Bachelor of Computer Applications (BCA) background and professional training in Data Science, Analytics and Generative AI.
 
-My approach combines **analytical thinking, statistical reasoning, machine learning and business understanding** to transform complex datasets into actionable insights and practical solutions.
+My interests span the complete data lifecycle — from data cleaning and exploratory data analysis to statistical analysis, predictive modeling, machine learning and intelligent application development.
 
-I enjoy working across the complete data lifecycle — from data extraction, cleaning and exploratory analysis to predictive modeling, visualization and intelligent application development.
+I enjoy solving real-world business problems through analytical thinking, experimentation and technology.
 
-### What drives me
-
-- 📊 **Data Analytics:** Discovering patterns, understanding trends and translating data into business insights.
-- 🤖 **Machine Learning:** Developing predictive models and intelligent classification systems.
-- 🧠 **Applied AI:** Exploring NLP, Deep Learning, LLMs and Retrieval-Augmented Generation.
-- 📈 **Business Intelligence:** Building interactive dashboards and data-driven decision support solutions.
-- 🚀 **Problem Solving:** Developing practical, industry-focused projects using real-world datasets.
-
-I believe that data science is not just about building models — it is about understanding problems, asking the right questions and creating measurable value.
+- 📊 Exploring business intelligence and data analytics.
+- 🤖 Building machine learning and AI-powered applications.
+- 📈 Developing interactive dashboards and data visualizations.
+- 🧠 Working with NLP, Deep Learning and predictive modeling.
+- 💡 Interested in transforming complex datasets into actionable business insights.
+- 🚀 Building industry-focused projects across Data Analytics and AI.
 
 ---
 
-## 🛠️ 02 — TECHNICAL EXPERTISE
+## 02 — TECHNOLOGIES & TOOLS
 
-### Programming & Databases
+**Programming Languages & Databases**
 
-\<p> \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/> \</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Data Analytics & Business Intelligence
+**Data Analysis & Visualization**
 
-\<p> \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/> \<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)"/> \</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Machine Learning & Deep Learning
+**Machine Learning & Deep Learning**
 
-\<p> \<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)"/> \</p>
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
 
-### NLP, Generative AI & Intelligent Applications
+**NLP & Generative AI**
 
-\<p> \<img src="[https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/LLMs-412991?style=for-the-badge](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/RAG-00897B?style=for-the-badge](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Sentence_Transformers-7952B3?style=for-the-badge](https://img.shields.io/badge/Sentence_Transformers-7952B3?style=for-the-badge)"/> \<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)"/> \</p>
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-7952B3?style=for-the-badge)
 
-### Development & Productivity Tools
+**Application Development & Tools**
 
-\<p> \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/> \</p>
-
----
-
-## 🚀 03 — FEATURED PROJECTS
-
-My projects focus on practical applications of data analytics, machine learning, NLP and intelligent systems.
-
-### 01. 🚆 RailResolve AI
-
-**AI-Powered Railway Complaint Classification & Resolution System**
-
-An intelligent railway complaint management solution that uses Natural Language Processing and hybrid retrieval techniques to classify passenger complaints and retrieve relevant resolution information.
-
-**Technical Highlights**
-
-- NLP-based complaint classification.
-- Hybrid retrieval for relevant information discovery.
-- Intelligent complaint resolution workflow.
-- Interactive application built using Streamlit.
-
-**Tech Stack:** Python • NLP • Information Retrieval • Streamlit
-
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 02. 🌊 Global Fisheries & Seafood Sustainability Intelligence
+## 03 — FEATURED PROJECTS
 
-**Global Production, Consumption & Sustainability Analytics**
+### 01. RailResolve-AI
 
-A data-driven research project investigating global fisheries, aquaculture production, seafood consumption and fish-stock sustainability using multiple public datasets.
+**AI-Powered Railway Complaint Classification and Resolution System**
 
-**Technical Highlights**
+An AI-powered railway complaint management application designed to classify passenger complaints and support relevant resolution retrieval using NLP and hybrid retrieval techniques.
 
-- Integrated multiple global fisheries datasets.
-- Explored capture fisheries versus aquaculture production.
-- Analyzed seafood consumption patterns across countries.
-- Investigated sustainable fish-stock trends.
-- Applied SQL-based analytical workflows.
-- Developed a Power BI-focused business intelligence solution.
+**Technologies:** Python | NLP | Hybrid Retrieval | Streamlit
 
-**Business Focus:** Seafood sustainability • Global food security • Production trends • Resource management
-
-**Tech Stack:** SQL • Power BI • Data Analysis • Data Modeling
-
-
+[Explore RailResolve-AI on GitHub →](https://github.com/zebasayyed17/RailResolve-AI)
 
 ---
 
-### 03. 📉 Customer Churn Prediction
+### 02. Global Fisheries & Seafood Sustainability Intelligence
+
+**Global Fish Production, Consumption & Sustainability Analytics**
+
+A data analytics project exploring global fisheries, aquaculture production, seafood consumption patterns and fish-stock sustainability using multiple public datasets.
+
+**Technologies:** SQL | Power BI | Data Cleaning | Data Modeling | Data Visualization
+
+**Key Focus Areas**
+
+- Analysis of global capture fisheries and aquaculture production.
+- Comparison of seafood production across countries.
+- Exploration of per-capita fish and seafood consumption.
+- Analysis of fish stocks maintained within sustainable levels.
+- Identification of global seafood production and sustainability trends.
+
+[Explore Global Fisheries on GitHub →](https://github.com/zebasayyed17/Global-Fisheries-Seafood-Intelligence)
+
+---
+
+### 03. Customer Churn Prediction
 
 **Machine Learning-Based Customer Retention Intelligence**
 
-An end-to-end predictive analytics application designed to identify customers who may discontinue a service and support data-driven customer retention decisions.
+An end-to-end machine learning application designed to predict customer churn and identify customers who may be at risk of leaving a service.
 
-**Technical Highlights**
+**Technologies:** Python | Pandas | Scikit-learn | Random Forest | XGBoost | SMOTE | Streamlit
 
-- Exploratory Data Analysis and preprocessing.
-- Categorical encoding and feature scaling.
-- SMOTE for handling class imbalance.
-- Random Forest and XGBoost model development.
-- Hyperparameter optimization using GridSearchCV.
-- Interactive customer churn prediction interface.
+**Key Highlights**
 
-**Tech Stack:** Python • Pandas • Scikit-learn • XGBoost • SMOTE • Streamlit
+- Performed exploratory data analysis and data preprocessing.
+- Implemented categorical encoding and feature scaling.
+- Applied SMOTE to address class imbalance.
+- Trained and compared Random Forest and XGBoost classifiers.
+- Used GridSearchCV for hyperparameter optimization.
+- Developed an interactive Streamlit prediction application.
 
+[Explore Customer Churn Prediction →](https://github.com/zebasayyed17/churn_lit)
 
-
-
+[Live Streamlit Application →](https://churnlit-zeba.streamlit.app/)
 
 ---
 
-### 04. 🛡️ JobShield — Fake Job Posting Detection
+### 04. JobShield — Fake Job Posting Detector
 
 **NLP & Deep Learning-Based Fraudulent Job Detection**
 
-An intelligent classification application designed to identify potentially fraudulent job postings using Natural Language Processing and Deep Learning techniques.
+An intelligent job-posting classification application designed to identify potentially fraudulent job advertisements using Natural Language Processing and Deep Learning.
 
-**Technical Highlights**
+**Technologies:** Python | NLP | TF-IDF | Logistic Regression | TensorFlow | Keras | SimpleRNN | Streamlit
 
-- Text preprocessing and feature extraction.
-- TF-IDF-based text representation.
-- Logistic Regression classification.
-- SimpleRNN deep learning implementation.
-- Trained model integration.
-- Interactive Streamlit application.
+**Key Highlights**
 
-**Tech Stack:** Python • NLP • TF-IDF • Scikit-learn • TensorFlow • Keras • Streamlit
+- Processed and prepared job-posting text for classification.
+- Implemented TF-IDF-based text representation.
+- Developed a Logistic Regression classification approach.
+- Built a SimpleRNN deep learning model.
+- Integrated trained models into a Streamlit application.
+- Designed an interactive interface for job-posting analysis.
 
-
-
----
-
-## 📝 04 — TECHNICAL WRITING & KNOWLEDGE SHARING
-
-I enjoy exploring how data science concepts translate into real-world applications and sharing those insights through technical writing.
-
-### Featured Medium Article
-
-**How Your Delivery Works (The Data Science Way): Deliveries Are Never Quite the Same**
-
-An exploration of how data science contributes to modern delivery systems and logistics through predictive analytics, delivery-time estimation and intelligent decision-making.
-
-**Topics:** Data Science • Predictive Analytics • Machine Learning • Logistics Intelligence
-
-
-
-[**Explore more articles on Medium →**](https://medium.com/@zebasayyed025)
+[Explore JobShield on GitHub →](https://github.com/zebasayyed17/jobshield-fake-job-detection)
 
 ---
 
-## 🎯 05 — AREAS OF INTEREST
+## 04 — AREAS OF INTEREST
 
-| Domain                | Areas of Focus                                |
-| :-------------------- | :-------------------------------------------- |
-| Data Science          | Predictive Modeling, Statistical Analysis     |
-| Data Analytics        | EDA, Data Cleaning, Business Insights         |
-| Machine Learning      | Classification, Regression, Model Evaluation  |
-| Business Intelligence | Power BI, Dashboard Development, KPI Analysis |
-| Deep Learning         | Neural Networks, Sequence Modeling            |
-| NLP & Generative AI   | Text Analytics, LLMs, RAG Applications        |
-| Applied AI            | Intelligent Systems, AI-powered Applications  |
+| Domain | Focus |
+|---|---|
+| Data Science | Predictive Modeling, Machine Learning |
+| Data Analytics | Data Cleaning, EDA, Statistical Analysis |
+| Business Intelligence | Dashboard Development, Business Insights |
+| Data Visualization | Interactive Charts, Data Storytelling |
+| Natural Language Processing | Text Classification, NLP Applications |
+| Applied AI | Generative AI, LLMs, RAG Applications |
+| Deep Learning | Neural Networks, Model Development |
 
 ---
 
-## 🎓 06 — EDUCATION & CONTINUOUS LEARNING
+## 05 — EDUCATION & LEARNING
 
 **Bachelor of Computer Applications (BCA)**
 
-**Professional Training**
+**Professional Training:** Postgraduate Program in Data Science & Analytics with Generative AI — Imarticus Learning.
 
-Postgraduate Program in Data Science & Analytics with Generative AI — Imarticus Learning.
+**Current Learning Focus**
 
-### Current Learning Focus
-
-- Advanced SQL and Python.
-- Statistical analysis and feature engineering.
-- Machine learning and deep learning.
+- Advanced Python and SQL.
+- Statistical analysis and machine learning.
+- Deep Learning and neural networks.
 - Generative AI and Large Language Models.
 - Retrieval-Augmented Generation (RAG).
-- Business intelligence and data storytelling.
-- Building scalable, practical AI applications.
-
-I believe continuous learning and hands-on experimentation are essential to growing in the field of data and artificial intelligence.
+- Business intelligence and real-world AI applications.
 
 ---
 
-## 📊 07 — GITHUB STATISTICS
+## 06 — GITHUB STATISTICS
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=zebasayyed17&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=zebasayyed17\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zebasayyed17&show_icons=true&theme=dark&hide_border=true)
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=zebasayyed17&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=zebasayyed17\&layout=compact\&theme=github_dark\&hide_border=true)" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zebasayyed17&layout=compact&theme=dark&hide_border=true)
 
-\<br/>\<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=zebasayyed17&theme=dark&hide_border=true)
 
-\<img width="70%" src="[https://streak-stats.demolab.com?user=zebasayyed17&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=zebasayyed17\&theme=github-dark-blue\&hide_border=true)" />
+</div>
 
-\</div>
+### CONTRIBUTION ACTIVITY
 
-### Contribution Activity
-
-\<div align="center">
-
-
-
-\</div>
+[![Zeba's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zebasayyed17&theme=github-dark&hide_border=true)](https://github.com/zebasayyed17)
 
 ---
 
-## 🤝 08 — LET'S CONNECT
+## 07 — LET'S CONNECT
 
-I am always interested in connecting with people who are passionate about data, analytics, machine learning and emerging AI technologies.
+I am interested in connecting with people who enjoy working with data, developing intelligent applications and solving meaningful real-world problems.
 
-Whether it is discussing an interesting data problem, collaborating on an innovative project or exploring opportunities in Data Analytics and Data Science, I would love to connect.
+<div align="center">
 
-\<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zeba-sayyed-28766941b/)
+[![Medium](https://img.shields.io/badge/MEDIUM-READ_ARTICLES-000000?style=for-the-badge&logo=medium)](https://medium.com/@zebasayyed025)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github)](https://github.com/zebasayyed17)
 
-\<a href="[https://www.linkedin.com/in/zeba-sayyed-28766941b/](https://www.linkedin.com/in/zeba-sayyed-28766941b/)">\<img src="[https://img.shields.io/badge/LINKEDIN-LET](https://img.shields.io/badge/LINKEDIN-LET)'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>\</a>
+**Think analytically. Build intelligently. Create impact through data.**
 
-\<a href="[https://medium.com/@zebasayyed025](https://medium.com/@zebasayyed025)">\<img src="[https://img.shields.io/badge/MEDIUM-READ_MY_WRITING-000000?style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/MEDIUM-READ_MY_WRITING-000000?style=for-the-badge\&logo=medium\&logoColor=white)"/>\</a>
-
-\<a href="[https://github.com/zebasayyed17](https://github.com/zebasayyed17)">\<img src="[https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>\</a>
-
-\<br/>\<br/>
-
-### "Think analytically. Build intelligently. Create impact through data."
-
-⭐ Thanks for visiting my profile!
-
-\</div>
+</div>
