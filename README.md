@@ -15,7 +15,7 @@
 
 <br/>
 
-![Projects](https://img.shields.io/badge/Featured_Projects-6-8B5CF6?style=flat-square)
+![Projects](https://img.shields.io/badge/Featured_Projects-4-8B5CF6?style=flat-square)
 ![Live App](https://img.shields.io/badge/Live_Streamlit_App-1-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Analytics_%7C_ML_%7C_GenAI-0A66C2?style=flat-square)
 ![Training](https://img.shields.io/badge/PG_Program-Data_Science_%26_GenAI-00897B?style=flat-square)
@@ -26,17 +26,10 @@
 
 ## 👩‍💻 About Me
 
-👋 Hello, I'm Zeba Sayyed!
+I'm a **Data Science & Analytics** enthusiast with a **BCA** background and professional training in **Data Science, Analytics and Generative AI**.
 
-"Transforming complex data into meaningful insights, and innovative ideas into intelligent, real-world solutions."
+My interests span the **complete data lifecycle**, from data cleaning and exploratory data analysis to statistical analysis, predictive modeling, machine learning and intelligent application development. I enjoy solving real-world business problems through analytical thinking, experimentation and technology.
 
-I'm a Data Science & Analytics enthusiast with a Bachelor's degree in Computer Applications (BCA) and postgraduate training in Data Science, Analytics & Generative AI. I am passionate about leveraging data, technology and intelligent algorithms to uncover patterns, solve complex problems and drive informed decision-making.
-
-My expertise and interests span the end-to-end data science lifecycle — from data extraction, cleaning, exploratory data analysis and statistical interpretation to predictive modeling, machine learning, deep learning and AI-powered application development.
-
-I enjoy bridging the gap between data-driven insights and real-world business impact by transforming raw datasets into actionable intelligence and building practical, scalable solutions. Through hands-on projects, I continuously explore emerging technologies, experiment with innovative approaches and strengthen my ability to solve industry-relevant challenges.
-
-My goal is simple: to combine analytical thinking, technical expertise and creativity to build intelligent solutions that make a meaningful difference.
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -109,7 +102,7 @@ Actively growing in Deep Learning, LLMs and RAG.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,git,github,vscode&perline=7" alt="Core skills"/>
+<img src="https://skillicons.dev/icons?i=py,mysql,pandas,numpy,sklearn,tensorflow,powerbi,git,github,vscode&perline=10" alt="Core skills"/>
 
 </div>
 
@@ -206,7 +199,7 @@ End-to-end ML application that predicts customers at risk of leaving. Handles cl
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `SMOTE` `Streamlit`
 
-[**GitHub →**](https://github.com/zebasayyed17/CHURN-LAB-Customer-Churn-Prediction-Intelligence-Platform) &nbsp;•&nbsp; [**🔴 Live App →**](https://churnlit-zeba.streamlit.app/)
+[**GitHub →**](https://github.com/zebasayyed17/churn_lit) &nbsp;•&nbsp; [**🔴 Live App →**](https://churnlit-zeba.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -219,32 +212,6 @@ Identifies potentially fraudulent job ads using TF-IDF with Logistic Regression 
 `Python` `NLP` `TF-IDF` `TensorFlow` `Keras` `SimpleRNN` `Streamlit`
 
 [**View on GitHub →**](https://github.com/zebasayyed17/jobshield-fake-job-detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Financial Intelligence Research Copilot
-**AI-Powered Financial Research Assistant**
-
-Analyzes annual reports with semantic search, financial KPI calculations, risk intelligence and disclosure comparison.
-
-`Python` `Semantic Search` `Financial KPIs` `Risk Intelligence`
-
-[**View on GitHub →**](https://github.com/zebasayyed17/financial-intelligence-research-copilot)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 EstateIQ
-**ML-Based House Price Prediction & Real Estate Analytics Platform for India**
-
-A machine learning-based platform for house price prediction and real estate analytics, built for the Indian market.
-
-`Python` `Machine Learning` `Real Estate Analytics`
-
-[**View on GitHub →**](https://github.com/zebasayyed17/EstateIQ-House-Price-Prediction)
 
 </td>
 </tr>
@@ -277,18 +244,6 @@ A machine learning-based platform for house price prediction and real estate ana
 - Trained models integrated into a Streamlit app
 - Interactive interface for job-posting analysis
 
-**💼 Financial Intelligence Research Copilot**
-- Annual report analysis
-- Semantic search over report content
-- Financial KPI calculations
-- Risk intelligence
-- Disclosure comparison
-
-**🏠 EstateIQ**
-- Machine learning-based house price prediction
-- Real estate analytics platform
-- Focused on the Indian property market
-
 </details>
 
 ### 🧩 Skills in Action
@@ -299,8 +254,6 @@ A machine learning-based platform for house price prediction and real estate ana
 | 🐟 **Global Fisheries** | ✅ | | | | ✅ | |
 | 📉 **Churn Prediction** | ✅ | ✅ | | | | ✅ |
 | 🛡️ **JobShield** | ✅ | ✅ | ✅ | ✅ | | ✅ |
-| 💼 **Financial Copilot** | ✅ | | ✅ | | | |
-| 🏠 **EstateIQ** | ✅ | ✅ | | | | |
 
 ---
 
